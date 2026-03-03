@@ -123,7 +123,7 @@
 		"concurrently": "^8.2.2",
 		"esbuild": "catalog:default",
 		"eslint": "^8.57.1",
-		"glob": "^7.1.4",
+		"glob": "^12.0.0",
 		"mocha": "^10.2.0",
 		"typescript": "^5.4.5",
 		"vsce": "^2.15.0",
