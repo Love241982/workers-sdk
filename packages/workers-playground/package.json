@@ -40,7 +40,7 @@
 		"react-dom": "^18.3.1",
 		"react-tabs": "^4.1.0",
 		"swr": "^2.2.0",
-		"uuid": "^9.0.0"
+		"uuid": "^14.0.0"
 	},
 	"devDependencies": {
 		"@types/glob-to-regexp": "^0.4.1",
